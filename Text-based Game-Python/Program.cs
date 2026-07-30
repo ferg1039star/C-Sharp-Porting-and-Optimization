@@ -193,7 +193,7 @@ while (true)
  * -equip items with get item not get "item name"
  * -add mini bosses in rooms with items
  * -either gives items a multiplier for attack or each mini boss would need a +
- *      smaller amount of items required to beat
+ *    smaller amount of items required to beat
  * -add and track hit points
  * -add health potions
  * -add more details for room desriptions
